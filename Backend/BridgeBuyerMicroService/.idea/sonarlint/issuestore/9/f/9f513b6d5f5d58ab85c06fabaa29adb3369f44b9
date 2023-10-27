@@ -1,0 +1,85 @@
+
+a	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(ãü‰›üÿÿÿÿ
+\	java:S112ı"FDefine and throw a dedicated exception instead of using a generic one.(Ä²Ö
+S
+java:S4973«"<Strings and Boxed types should be compared using "equals()".(ùÁä¹
+X
+java:S4973®"<Strings and Boxed types should be compared using "equals()".(òÆÚòüÿÿÿÿ
+S
+java:S4973±"<Strings and Boxed types should be compared using "equals()".( àæŞ
+S
+java:S4973±"<Strings and Boxed types should be compared using "equals()".( àæŞ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸöÔÄÿÿÿÿÿ
+i
+java:S2095Y"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Áàøÿÿÿÿ
+c	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëğ³‘
+U
+java:S1854U"?Remove this useless assignment to local variable "newFileName".(§æ°”
+F
+java:S1481U"0Remove this unused "newFileName" local variable.(§æ°”
+V	java:S125V"<This block of commented-out lines of code should be removed.(ƒÎÄçøÿÿÿÿ
+\
+java:S1075X"ARefactor your code to get this URI from a customizable parameter.(ìˆß¡øÿÿÿÿ
+L
+java:S6437r"6Revoke and change this password, as it is compromised.(Ùíç¼
+W	java:S125"<This block of commented-out lines of code should be removed.(›¿Óÿÿÿÿÿ
+F	java:S106›"+Replace this use of System.out by a logger.(ªÄ¡Ñûÿÿÿÿ
+A	java:S106£"+Replace this use of System.out by a logger.(£»™À
+\
+java:S4684ª"@Replace this persistent entity with a simple POJO or DTO object.(£ãøÿÿÿÿ
+;
+java:S3751É"Make this method non "private".(¦êîëÿÿÿÿÿ
+\
+java:S4684Ó"@Replace this persistent entity with a simple POJO or DTO object.(ÔƒÕøÿÿÿÿ
+;
+java:S3751Ó"Make this method non "private".(ÔƒÕøÿÿÿÿ
+;
+java:S3751Ú"Make this method non "private".(¦ƒÍåÿÿÿÿÿ
+>
+java:S1125ß"'Remove the unnecessary boolean literal.(Ã§ùÃ
+W
+java:S4684ï"@Replace this persistent entity with a simple POJO or DTO object.(ºş
+n
+java:S2737Ÿ"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+M
+java:S6437„"6Revoke and change this password, as it is compromised.(Ùíç¼
+d	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÓü”
+c	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á–O
+V
+java:S4684é"@Replace this persistent entity with a simple POJO or DTO object.(Á–O
+V
+java:S4684õ"@Replace this persistent entity with a simple POJO or DTO object.(ìŞÀP
+;
+java:S3751"Make this method non "private".(Óù²Õùÿÿÿÿ
+W
+java:S4684‡"@Replace this persistent entity with a simple POJO or DTO object.(¿È³Ê
+6
+java:S3751‡"Make this method non "private".(¿È³Ê
+\
+java:S4684š"@Replace this persistent entity with a simple POJO or DTO object.(¯¯åıÿÿÿÿ
+;
+java:S3751¦"Make this method non "private".(—ÿÿ•üÿÿÿÿ
+\
+java:S4684¬"@Replace this persistent entity with a simple POJO or DTO object.(ÓÄ§Íøÿÿÿÿ
+;
+java:S3751¬"Make this method non "private".(ÓÄ§Íøÿÿÿÿ
+V
+java:S4684³"@Replace this persistent entity with a simple POJO or DTO object.(ÒÂv
+d	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÛèÙ
+d	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô÷À­
+h
+java:S1128"MRemove this unused import 'com.example.userservice.DataMining.DataGenerator'.(©ıâæûÿÿÿÿ
+i
+java:S1128"NRemove this unused import 'com.example.userservice.Repository.UserRepository'.(ÅşÙ¾şÿÿÿÿ
+?
+java:S1128")Remove this unused import 'lombok.Value'.(ß­ÅŸ
+Z
+java:S1128"DRemove this unused import 'org.springframework.core.ResolvableType'.(åĞÔ«
+e
+java:S1128"JRemove this unused import 'org.springframework.data.jpa.repository.Query'.(Äºöïşÿÿÿÿ
+l
+java:S1128"VRemove this unused import 'org.springframework.security.access.prepost.PostAuthorize'.(ª¤°Ñ
+}
+java:S1128""gRemove this unused import 'org.springframework.security.oauth2.client.registration.ClientRegistration'.(…¬ò
+[
+java:S1128/"@Remove this unused import 'java.nio.file.AccessDeniedException'.(èÜšúÿÿÿÿ

@@ -1,0 +1,16 @@
+
+x
+java:S1488l"]Immediately return this expression instead of assigning it to the temporary variable "users".(Ï•…ýûÿÿÿÿ
+}
+java:S1488r"bImmediately return this expression instead of assigning it to the temporary variable "privileges".(®ë½ƒþÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çù´–
+]
+java:S2259`"BA "NullPointerException" could be thrown; "role" is nullable here.(ûÅüÓúÿÿÿÿ
+i
+java:S2259&"NA "NullPointerException" could be thrown; "managedPrivilege" is nullable here.(§ã“©ÿÿÿÿÿ
+i
+java:S2259S"NA "NullPointerException" could be thrown; "managedPrivilege" is nullable here.(Û‹òËþÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(§ã“©ÿÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(íé³¤ûÿÿÿÿ
+V	java:S125/"<This block of commented-out lines of code should be removed.(×Ì‡¼ùÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(º”Ëóøÿÿÿÿ
